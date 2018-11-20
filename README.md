@@ -6,3 +6,4 @@ Eventually I want to make it
 2. Use a GUI to play with patterns
 3. React to audio from the PC's sound card
 4. React to graphics on the screen 
+5. Get some IoT going with a ESP8266
